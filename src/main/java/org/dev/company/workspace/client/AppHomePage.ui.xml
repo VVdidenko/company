@@ -1,0 +1,7 @@
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+             xmlns:g='urn:import:com.google.gwt.user.client.ui'>
+    <g:HTMLPanel>
+        <!--<g:Button ui:field="testBtn" text="click me" addStyleNames="greetButton"/>-->
+        <!--<g:TextBox ui:field="gwtContainer" text="Entry text here " addStyleNames="box"/>-->
+    </g:HTMLPanel>
+</ui:UiBinder>
